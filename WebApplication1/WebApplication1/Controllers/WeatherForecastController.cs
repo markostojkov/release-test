@@ -17,6 +17,11 @@ namespace WebApplication1.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
+        /// <summary>
+        /// tawtawtawtatawt
+        /// </summary>
+        /// <param name="logger"></param>
+
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
